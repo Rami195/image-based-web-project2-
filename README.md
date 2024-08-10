@@ -4,14 +4,15 @@
 
 El diseño de esta página se inspira en una estructura simple y funcional para mostrar de manera clara y atractiva los diferentes servicios ofrecidos. El objetivo principal fue mantener un diseño limpio, con una tipografía legible y una distribución de contenido que facilite la navegación del usuario.
 
-Tecnologías Utilizadas
+<h3>Tecnologías Utilizadas</h3>
 
 En este proyecto, utilicé las siguientes tecnologías:
 
 - HTML: Para definir la estructura y el contenido de la página.
 - CSS: Para estilizar y dar formato a los elementos de la página, incluyendo colores, fuentes y disposición.
 
-Conclusión
+<h3>Conclusión <h3/>
+  
 Este proyecto fue una gran oportunidad para mejorar mis habilidades en HTML y CSS, centrándome en la creación de un diseño web funcional y estético. Estoy muy satisfecho con el resultado y ansioso por seguir aprendiendo y mejorando en el campo del desarrollo web.
 
 
