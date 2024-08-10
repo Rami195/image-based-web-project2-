@@ -11,8 +11,7 @@ En este proyecto, utilicé las siguientes tecnologías:
 - HTML: Para definir la estructura y el contenido de la página.
 - CSS: Para estilizar y dar formato a los elementos de la página, incluyendo colores, fuentes y disposición.
 
-<h3>Conclusión <h3/>
-  
+<h3>Conclusión<h3/>
 Este proyecto fue una gran oportunidad para mejorar mis habilidades en HTML y CSS, centrándome en la creación de un diseño web funcional y estético. Estoy muy satisfecho con el resultado y ansioso por seguir aprendiendo y mejorando en el campo del desarrollo web.
 
 
